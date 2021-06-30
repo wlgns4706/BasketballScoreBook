@@ -1,0 +1,12 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ubuntu
+> git status -z -u
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/www/ci/app/Models/NewsModel.php
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/ubuntu/www/ci/app/Models/NewsModel.php
+fatal: your current branch 'master' does not have any commits yet
+fatal: your current branch 'master' does not have any commits yet
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/ubuntu/www' failed; ex=Canceled: Canceled
+Open repository: /home/ubuntu

@@ -1,0 +1,46 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 41429
+
+[11:08:45] Extension host agent started.
+[11:08:45] [127.0.0.1][5c78d55d][ManagementConnection] Unknown reconnection token.
+[11:15:51] [127.0.0.1][feda54ee][ManagementConnection] New connection established.
+[11:15:51] [127.0.0.1][3a4442ca][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[11:15:51] Listing 0 persistent terminals, 0 total terminals
+[11:15:51] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/.vscode'
+[11:15:51] [127.0.0.1][3a4442ca][ExtensionHostConnection] <85366> Launched Extension Host Process.
+[11:42:11] [127.0.0.1][de0bae81][ManagementConnection] New connection established.
+[11:42:11] [127.0.0.1][08221d9b][ExtensionHostConnection] New connection established.
+[11:42:11] [127.0.0.1][08221d9b][ExtensionHostConnection] <88044> Launched Extension Host Process.
+[11:42:11] Listing 0 persistent terminals, 0 total terminals
+[11:42:17] [127.0.0.1][de0bae81][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:42:18] [127.0.0.1][08221d9b][ExtensionHostConnection] <88044> Extension Host Process exited with code: 0, signal: null.
+[15:17:25] [127.0.0.1][2e926c24][ManagementConnection] New connection established.
+[15:17:25] [127.0.0.1][cf353095][ExtensionHostConnection] New connection established.
+[15:17:25] [127.0.0.1][cf353095][ExtensionHostConnection] <112263> Launched Extension Host Process.
+[15:17:25] Listing 0 persistent terminals, 0 total terminals
+[15:17:45] [127.0.0.1][2e926c24][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:17:46] [127.0.0.1][cf353095][ExtensionHostConnection] <112263> Extension Host Process exited with code: 0, signal: null.
+[15:17:47] [127.0.0.1][7ada2f74][ManagementConnection] New connection established.
+[15:17:47] [127.0.0.1][a87ebb8e][ExtensionHostConnection] New connection established.
+[15:17:47] [127.0.0.1][a87ebb8e][ExtensionHostConnection] <112488> Launched Extension Host Process.
+[15:17:47] Listing 0 persistent terminals, 0 total terminals
+[15:17:47] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/www/html/.vscode'
+[15:17:49] [127.0.0.1][7ada2f74][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:17:50] [127.0.0.1][a87ebb8e][ExtensionHostConnection] <112488> Extension Host Process exited with code: 0, signal: null.
+[15:18:33] [127.0.0.1][957b319e][ManagementConnection] New connection established.
+[15:18:33] [127.0.0.1][a5b190f1][ExtensionHostConnection] New connection established.
+[15:18:33] [127.0.0.1][a5b190f1][ExtensionHostConnection] <112877> Launched Extension Host Process.
+[15:18:33] Listing 0 persistent terminals, 0 total terminals
+[15:18:33] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/www/html/.vscode'
+[15:18:44] [127.0.0.1][957b319e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:18:45] [127.0.0.1][a5b190f1][ExtensionHostConnection] <112877> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,19 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ubuntu
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n39 -- /home/ubuntu/.vscode-server/.054a9295330880ed74ceaedda236253b4f39a335.token
+fatal: your current branch 'master' does not have any commits yet
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/ubuntu' failed; ex=Canceled: Canceled
+Opening repository for path='/home/ubuntu/.bash_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/ubuntu/.bash_logout' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/ubuntu/.bashrc' failed; ex=Error: spawn ENOTDIR
+Open repository: /home/ubuntu
