@@ -204,3 +204,4 @@ Error: Unexpected SIGPIPE
 }
 [09:16:20] [127.0.0.1][09b44b2b][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
 [09:16:21] [127.0.0.1][895a33cb][ExtensionHostConnection] <8313> Extension Host Process exited with code: 0, signal: null.
+[10:03:30] No ptyHost heartbeat after 6 seconds
