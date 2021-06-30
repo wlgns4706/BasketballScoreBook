@@ -54,11 +54,7 @@
 
                     $sql_result = $conn->query($sql);
 
-                    while($row = $sql_result->fetch_object()){
-                        
-                        
-                        
-                        
+                    while($row = $sql_result->fetch_object()){                
                         #2,3점 슛 시도 기록이 없을시 '-' 로 표시
                         if($row->tot_threePoint_a==0 && $row->tot_threePoint_m==0){
                             $tot_threePoint_p = "-";
@@ -70,7 +66,6 @@
                         #순위별 선택된 항목 표시되도록 하기 위한 변수
                         ${$rank_type.'_select'} = " class='bg-light fw-bold'";
                         
-
                         echo "
                         <tr style = 'cursor:pointer;' onClick = location.href='/player/player_record.php?PlayerId=$row->PlayerId'>
                             <th>$row->PlayerName</th>
