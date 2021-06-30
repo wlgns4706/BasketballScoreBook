@@ -55,7 +55,7 @@
                     $sql_result = $conn->query($sql);
 
                     while($row = $sql_result->fetch_object()){                
-                        #2,3점 슛 시도 기록이 없을시 '-' 로 표시
+                        #2,3점 슛 시도 기록이 없을시 '-' 로 표시 
                         if($row->tot_threePoint_a==0 && $row->tot_threePoint_m==0){
                             $tot_threePoint_p = "-";
                         }
